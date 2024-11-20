@@ -21,3 +21,6 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 - **[Ejercicio 11](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2011/Ejercicio%20HTML-11.html):** Listas
 - **[Ejercicio 12](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2012/Ejercicio%2012.html):** Crea cuatro párrafos, añade cabeceras, identificador, diferentes colores de fondo y estilos de texto
 - **[Ejercicio 13](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2013/Ejercicio%20HTML-13.html):** Crear bordes en parrafos
+- **[Ejercicio 14](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2014/Ejercicio%2014.html):** Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta.
+- **[Ejercicio 15](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2015/Ejercicio%2015.html):** Crear tabla
+- **[Ejercicio 16](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2016/Ejercicio%2016.html):** Horario
