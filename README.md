@@ -4,7 +4,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 ## Temas
 
 ### Tema 1
-- **Ejercicio 1:** Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección
+- **[Ejercicio 1](Tema 1/Ejercicio 1/Ejercicio 1.html):** Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección
 - **Ejercicio 2:** Crea un documento xml que incluya información sobre un par de libros de una biblioteca.
 - **Ejercicio 3:** ¿Qué es SVG? Busca un ejemplo.
 - **Ejercicio 4:** Crear una página "README.md"
@@ -20,4 +20,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 - **Ejercicio 10:** Write a HTML page with the follow two levels nested list 
 - **Ejercicio 11:** Listas
 - **Ejercicio 12:** Crea cuatro párrafos, añade cabeceras, identificador, diferentes colores de fondo y estilos de texto
-- **Ejercicio 13:** 
+- **Ejercicio 13:** Crear bordes en parrafos
