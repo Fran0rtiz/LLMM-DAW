@@ -24,3 +24,13 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 - **[Ejercicio 14](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2014/Ejercicio%2014.html):** Añade una cabecera a cada párrafo e incluye un identificador para cada etiqueta.
 - **[Ejercicio 15](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2015/Ejercicio%2015.html):** Crear tabla
 - **[Ejercicio 16](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2016/Ejercicio%2016.html):** Horario
+- **[Ejercicio 17](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2017/Ejercicio%2017.html):** Crear tabla 2
+- **[Ejercicio 18](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2018/Ejercicio%2018.html):** Crear tabla 3
+- **[Ejercicio 19](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2019/Ejercicio%2019.html):** Imagen flotante
+- **[Ejercicio 20](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2020/Ejercicio%2020.html):** Imagenes
+- **[Ejercicio 21](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2021/Ejercicio%2021.html):** Imagen miniatura
+- **[Ejercicio 22](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2022/Ejercicio%2022.html):** Favicon
+- **[Ejercicio 23](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2023/Ejercicio%2023.html):** iFrame
+- **[Ejercicio 24](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2024/Ejercicio%2024.html):** Formularios CV
+- **[Ejercicio 25](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2025/Ejercicio%2025.html):** Formularios CV 2
+
