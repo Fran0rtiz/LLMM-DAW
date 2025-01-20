@@ -33,4 +33,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 - **[Ejercicio 23](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2023/Ejercicio%2023.html):** iFrame
 - **[Ejercicio 24](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2024/Ejercicio%2024.html):** Formularios CV
 - **[Ejercicio 25](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2025/Ejercicio%2025.html):** Formularios CV 2
+- **[Ejercicio 26](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2026/Ejercicio%2026.html):** página con un video
+- **[Ejercicio 27](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2027/Ejercicio%2027.html):** página con un fichero de sonido
+- **[Ejercicio 28](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%202/Ejercicio%2028/Ejercicio%2028.html):** página con un video incrustado de Youtube
 
