@@ -41,5 +41,15 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 ## Segundo Trimestre
 
 ### UNIT 2 - CSS
+- **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%202%20-%20CSS/Ejercicio%201/Curriculum.html):** 
+- **[Ejercicio 2](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%202%20-%20CSS/Ejercicio%202/poe.html):**
+- **[Ejercicio 3](https://github.com/Fran0rtiz/LLMM-DAW/tree/main/UNIT%202%20-%20CSS/Ejercicio%203):**
+- **[Ejercicio 4](https://github.com/Fran0rtiz/LLMM-DAW/tree/main/UNIT%202%20-%20CSS/Ejercicio%204):**
+- **[Ejercicio 5](https://github.com/Fran0rtiz/LLMM-DAW/tree/main/UNIT%202%20-%20CSS/Ejercicio%205):**
+- **[Ejercicio 6](https://github.com/Fran0rtiz/LLMM-DAW/tree/main/UNIT%202%20-%20CSS/Ejercicio%206):**
+- **[Ejercicio 10](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%202%20-%20CSS/Ejercicio%2010/Ejercicio%2010.html):**
 
 
+### UNIT 3 - JAVASCRIPT
+- **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%201/Ejercicio%201.html):**
+- **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%202/Ejercicio%202.html):** 
