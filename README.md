@@ -51,7 +51,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 
 ### UNIT 3 - JAVASCRIPT
 - **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%201/Ejercicio%201.html):**
-- **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%202/Ejercicio%202.html):**
+- **[Ejercicio 2](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%202/Ejercicio%202.html):**
 
 
 
