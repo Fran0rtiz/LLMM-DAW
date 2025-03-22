@@ -46,7 +46,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 - **[Ejercicio 3](https://github.com/Fran0rtiz/LLMM-DAW/tree/main/UNIT%202%20-%20CSS/Ejercicio%203):** Fondo
 - **[Ejercicio 4](https://github.com/Fran0rtiz/LLMM-DAW/tree/main/UNIT%202%20-%20CSS/Ejercicio%204):** Menú vertical vs horizontal
 - **[Ejercicio 5](https://github.com/Fran0rtiz/LLMM-DAW/tree/main/UNIT%202%20-%20CSS/Ejercicio%205):** Estilos de tablas I
-- **[Ejercicio 6](https://github.com/Fran0rtiz/LLMM-DAW/tree/main/UNIT%202%20-%20CSS/Ejercicio%206):**stilos de tablas II
+- **[Ejercicio 6](https://github.com/Fran0rtiz/LLMM-DAW/tree/main/UNIT%202%20-%20CSS/Ejercicio%206):** stilos de tablas II
 - **[Ejercicio 10](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%202%20-%20CSS/Ejercicio%2010/Ejercicio%2010.html):** Float property
 - **[Ejercicio 11](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%202%20-%20CSS/Ejercicio%2011/Ejercicio%2011.html):** Absolute position I
 - **[Ejercicio 12](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%202%20-%20CSS/Ejercicio%2012/Ejercicio%2012.html):**  Absolute position II
