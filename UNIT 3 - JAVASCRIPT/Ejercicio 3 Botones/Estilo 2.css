@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+button {
+    background-color: darkred;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: red;
+}
