@@ -54,13 +54,19 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 ### UNIT 3 - JAVASCRIPT
 - **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%201/Ejercicio%201.html):** Inicio
 - **[Ejercicio 2](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%202/Ejercicio%202.html):** Mostrar mensages
-- **[Ejercicio 2](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%203/Ejercicio%203.html):** Mostrar imágenes
+- **[Ejercicio 3](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%203%20Botones/Ejercicio3.html):** Botones
 
 
 ## Tercer Trimestre
 
 ### UNIT 3 - JAVASCRIPT
-
+- **[Ejercicio 4](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%204/Ejercicio%204.html):** Variables
+- **[Ejercicio 5](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%205/Ejercicio%205.html):** Cambiando imagen y estilo de texto
+- **[Ejercicio 6](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%206/Ejercicio%206.html):** Cambiando texto
+- **[Ejercicio 7](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%207/Ejercicio%207.html):** Cambiando imagen
+- **[Ejercicio 8](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%208/Ejercicio%208.html):** Calculadora
+- **[Ejercicio 9](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%209/Ejercicio%209.html):** Conversor de ºF a ºC
+- **[Ejercicio 10](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%210/Ejercicio%210.html):** Juego de memoria
 
 ### Proyectos
 - **[Web4U](https://fran0rtiz.github.io/Web4U/)**
