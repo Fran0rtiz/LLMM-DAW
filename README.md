@@ -71,8 +71,18 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 ### UNIT 3 - DOM
 - **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20DOM/Ejercicio%201/Ejercicio%201.html):** Ejemplos de textos
 - **[Ejercicio 2](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20DOM/Ejercicio%202/Ejercicio%202.html):** Imagen con DIV
-- **[Ejercicio 3](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20DOM/Ejercicio%203/Ejercicio%203.html)):** Borrar lista
+- **[Ejercicio 3](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20DOM/Ejercicio%203/Ejercicio%203.html):** Borrar lista
 - **[Ejercicio 4](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20DOM/Ejercicio%204/Ejercicio%204.html):** Documento HTML con propiedades
+
+### UNIT 4 - XML
+- **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%204%20-%20XML/Ejercicio%201/Ejercicio%201.html):** Preguntas simples
+- **[Ejercicio 2](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%204%20-%20XML/Ejercicio%202/Ejercicio%202.html):** Estructuras de árbol XML
+- **[Ejercicio 3](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%204%20-%20XML/Ejercicio%203/Ejercicio%203.html):** Estructura de XML
+- **[Ejercicio 4](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%204%20-%20XML/Ejercicio%204/Ejercicio%204.html):** contenido de información
+- **[Ejercicio 5](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%204%20-%20XML/Ejercicio%205/Ejercicio%205.html):** Información del CD
+- **[Ejercicio 6](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%204%20-%20XML/Ejercicio%206/Ejercicio%206.html):** Plantilla de carta
+- **[Ejercicio 7](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%204%20-%20XML/Ejercicio%207/Ejercicio%207.html):** Estándar XML
+
 
   
 ### Proyectos
