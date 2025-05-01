@@ -68,6 +68,13 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 - **[Ejercicio 9](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%209/Ejercicio%209.html):** Conversor de ºF a ºC
 - **[Ejercicio 10](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20JAVASCRIPT/Ejercicio%210/Ejercicio%210.html):** Juego de memoria
 
+### UNIT 3 - DOM
+- **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20DOM/Ejercicio%201/Ejercicio%201.html):** Ejemplos de textos
+- **[Ejercicio 2](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20DOM/Ejercicio%202/Ejercicio%202.html):** Imagen con DIV
+- **[Ejercicio 3](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20DOM/Ejercicio%203/Ejercicio%203.html)):** Borrar lista
+- **[Ejercicio 4](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/UNIT%203%20-%20DOM/Ejercicio%204/Ejercicio%204.html):** Documento HTML con propiedades
+
+  
 ### Proyectos
 - **[Web4U](https://fran0rtiz.github.io/Web4U/)**
 - **[Bootstrap](https://fran0rtiz.github.io/bootstrap/)**
