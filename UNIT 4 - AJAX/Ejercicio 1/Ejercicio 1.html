@@ -79,7 +79,6 @@
     <div id="cdDivTable"></div>
 
     <script>
-        // Función para cargar el archivo XML
         function loadXML() {
             const xhttp = new XMLHttpRequest();
             xhttp.onload = function () {
@@ -92,7 +91,6 @@
             xhttp.send();
         }
 
-        // Función para mostrar los datos en una tabla HTML
         function displayHTMLTable(xmlDoc) {
             const cds = xmlDoc.getElementsByTagName("CD");
             let table = "<tr><th>Título</th><th>Artista</th><th>País</th><th>Compañía</th><th>Precio</th><th>Año</th></tr>";
@@ -118,11 +116,9 @@
             document.getElementById("cdTable").innerHTML = table;
         }
 
-        // Función para mostrar los datos en una tabla DIV
         function displayDIVTable(xmlDoc) {
             const cds = xmlDoc.getElementsByTagName("CD");
 
-            // Crear estructura de la tabla DIV
             let divTable = '<div class="divTable">';
             divTable += '<div class="divTableHeading">';
             divTable += '<div class="divTableRow">';
@@ -136,7 +132,6 @@
             divTable += '</div>';
             divTable += '<div class="divTableBody">';
 
-            // Añadir filas con datos
             for (let i = 0; i < cds.length; i++) {
                 const title = cds[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue;
                 const artist = cds[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue;
