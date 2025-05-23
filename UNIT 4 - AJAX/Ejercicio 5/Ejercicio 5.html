@@ -15,7 +15,7 @@
         }
         
         h1, h2 {
-            color: #0b911d; /* Color azul NASA */
+            color: #0b911d;
         }
         
         .nasa-container {
@@ -97,7 +97,7 @@
     </div>
     
     <script>
-        // Función para cargar datos de la API de la NASA
+    
         function loadNASAData() {
             const date = document.getElementById("apodDate").value || "2020-05-01";
             const apiKey = "DEMO_KEY"; // Usar DEMO_KEY para pruebas limitadas
@@ -125,7 +125,6 @@
             xhttp.send();
         }
         
-        // Función para mostrar los datos de la NASA
         function displayNASAData(data) {
             let html = "";
             
