@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>JSON Demo</title>
+</head>
+<body>
+
+<h2>JSON Demo</h2>
+<p id="demo"></p>
+<p id="demo2"></p>
+<p id="demo3"></p>
+<p id="demo4"></p>
+<p id="demo5"></p>
+<p id="demo6"></p>
+<p id="demo7"></p>
+
+<script>
+fetch("json_demo.txt")
+  .then(response => response.json())
+  .then(myObj => {
+    // 1. Muestra edad
+    document.getElementById("demo").innerHTML = "Edad: " + myObj.age;
+
+    // 2. Tipo del primer elemento pets
+    document.getElementById("demo2").innerHTML = "Tipo primera mascota: " + myObj.pets[0].type;
+
+    // 3. Nombre del primer elemento pets
+    document.getElementById("demo3").innerHTML = "Nombre primera mascota: " + myObj.pets[0].name;
+
+    // 4. Número de mascotas
+    document.getElementById("demo4").innerHTML = "Número de mascotas: " + myObj.pets.length;
+
+    // 5. Nombres de todas las mascotas
+    let nombres = "";
+    for(let i = 0; i < myObj.pets.length; i++) {
+      nombres += myObj.pets[i].name + "<br>";
+    }
+    document.getElementById("demo5").innerHTML = "Nombres de mascotas:<br>" + nombres;
+
+    // 6. Todos los datos en un párrafo
+    let info = "Nombre: " + myObj.name + "<br>" +
+               "Edad: " + myObj.age + "<br>" +
+               "Coches: " + myObj.cars.car1 + ", " + myObj.cars.car2 + ", " + myObj.cars.car3 + "<br>" +
+               "Mascotas: ";
+    for(let i = 0; i < myObj.pets.length; i++) {
+      info += myObj.pets[i].type + " - " + myObj.pets[i].name + "; ";
+    }
+    document.getElementById("demo6").innerHTML = info;
+
+    // 7. Tabla con los datos de mascotas
+    let tabla = "<table border='1'><tr><th>Tipo</th><th>Nombre</th></tr>";
+    for(let i = 0; i < myObj.pets.length; i++) {
+      tabla += "<tr><td>" + myObj.pets[i].type + "</td><td>" + myObj.pets[i].name + "</td></tr>";
+    }
+    tabla += "</table>";
+    document.getElementById("demo7").innerHTML = tabla;
+  });
+</script>
+
+</body>
+</html>
