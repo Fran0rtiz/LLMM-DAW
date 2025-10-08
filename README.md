@@ -6,7 +6,7 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 ### Primer Trimestre
 
 #### UNIT 1 - HTML
-- **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%201/Ejercicio%201/Ejercicio%201.html):** Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección
+- **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/1ºDAW/blob/main/Tema%201/Ejercicio%201/Ejercicio%201.html):** Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección
 - **[Ejercicio 2](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%201/Ejercicio%202/Ejercicio%202.html):** Crea un documento xml que incluya información sobre un par de libros de una biblioteca.
 - **[Ejercicio 3](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%201/Ejercicio%203/Ejercicio%203.html):** ¿Qué es SVG? Busca un ejemplo.
 - **[Ejercicio 4](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/Tema%201/Ejercicio%204/README.md):** Crear una página "README.md"
