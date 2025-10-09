@@ -105,4 +105,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
 
 
 ## 2º DAW
-- **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/2%C2%BADAW/1%20Trimestre/Actividades/Instalaci%C3%B3n%20de%20apache.pdf).:** Instalación de Apache en Ubuntu
+- **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/2%C2%BADAW/1%20Trimestre/Actividades/Instalaci%C3%B3n%20de%20apache.pdf):** Instalación de Apache en Ubuntu
