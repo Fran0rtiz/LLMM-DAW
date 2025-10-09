@@ -95,12 +95,14 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Lenguaje de M
   - **[Ejercicio 2](https://github.com/Fran0rtiz/LLMM-DAW/tree/main/1%C2%BADAW/UNIT%204%20-%20AJAX/Ejercicio%202):** Información meteorológica
   - **[Ejercicio 3](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/1%C2%BADAW/UNIT%204%20-%20AJAX/Ejercicio%203/Ejercicio%203.html):** Mostrar elementos
   - **[Ejercicio 4](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/1%C2%BADAW/UNIT%204%20-%20AJAX/Ejercicio%204/Ejercicio%204.html):** Mostrar elementos 2
-  - **[Ejercicio 5](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/1%C2%BADAW/UNIT%204%20-%20AJAX/Ejercicio%205/Ejercicio%205.html):** NASA
-
-  
+  - **[Ejercicio 5](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/1%C2%BADAW/UNIT%204%20-%20AJAX/Ejercicio%205/Ejercicio%205.html):** NASA  
   
 ### Proyectos de 1º DAW
 - **[Web4U](https://fran0rtiz.github.io/Web4U/) ----- [Archivos](https://github.com/Fran0rtiz/Web4U)**  
 - **[Bootstrap](https://fran0rtiz.github.io/bootstrap/) ----- [Archivos](https://github.com/Fran0rtiz/bootstrap)**
 - **[Lights Out Game](https://fran0rtiz.github.io/Lights-Out-Game/) ----- [Archivos](https://github.com/Fran0rtiz/Lights-Out-Game)**
 - **[Preguntas y respuestas XML](https://fran0rtiz.github.io/Proyecto-XML/) ----- [Archivos](https://github.com/Fran0rtiz/Proyecto-XML)**
+
+
+## 2º DAW
+- **[Ejercicio 1](https://github.com/Fran0rtiz/LLMM-DAW/blob/main/2%C2%BADAW/1%20Trimestre/Actividades/Instalaci%C3%B3n%20de%20apache.pdf).:** Instalación de Apache en Ubuntu
